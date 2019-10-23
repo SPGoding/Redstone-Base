@@ -5,8 +5,9 @@
 # 安装
 
 1. 安装前置模组[【UIN】——标签分类](https://www.mcbbs.net/thread-775667-1-1.html)。
-2. 下载该模组，放置到存档的 `datapacks` 目录下。  
-    [attach]1404541[/attach]
+2. 下载该模组，放置到存档的 `datapacks` 目录下。
+
+[attach]1404541[/attach]
 
 # 注意
 
