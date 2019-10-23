@@ -6,5 +6,5 @@ execute if score result rsbase matches 0 store result score result rsbase if blo
 execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ minecraft:comparator[powered=true,facing=east]
 execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ minecraft:observer[powered=true,facing=east]
 execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ #minecraft:buttons[face=wall,facing=east,powered=true]
-execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ minecraft:lever[facing=east,powered=true]
+execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ minecraft:lever[face=wall,facing=east,powered=true]
 execute if score result rsbase matches 0 store result score result rsbase if block ~ ~ ~ minecraft:tripwire_hook[facing=east,powered=true]
